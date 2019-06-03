@@ -1,0 +1,22 @@
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.deps.json
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.dll
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.pdb
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.dll
+C:\Users\David\Desktop\Project Video\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.pdb
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.deps.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.dll
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\bin\Debug\netcoreapp2.1\TestRomanos.pdb
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.dll
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\TestRomanos\TestRomanos\obj\Debug\netcoreapp2.1\TestRomanos.pdb

@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\bin\Debug\netcoreapp2.1\Roman Numeral Part 3.deps.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\bin\Debug\netcoreapp2.1\Roman Numeral Part 3.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\bin\Debug\netcoreapp2.1\Roman Numeral Part 3.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\bin\Debug\netcoreapp2.1\Roman Numeral Part 3.dll
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\bin\Debug\netcoreapp2.1\Roman Numeral Part 3.pdb
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.dll
+C:\Users\David\Desktop\Project Video\1. Romano Code Kata\Roman Numeral Part 3\Roman Numeral Part 3\obj\Debug\netcoreapp2.1\Roman Numeral Part 3.pdb

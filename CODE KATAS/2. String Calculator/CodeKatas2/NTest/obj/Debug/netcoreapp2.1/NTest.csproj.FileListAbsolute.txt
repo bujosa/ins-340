@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NTest.deps.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NTest.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NTest.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NTest.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\NTest.pdb
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\bin\Debug\netcoreapp2.1\CodeKatas.pdb
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.csproj.CopyComplete
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\NTest\obj\Debug\netcoreapp2.1\NTest.pdb
