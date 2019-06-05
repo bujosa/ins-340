@@ -1,0 +1,22 @@
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.deps.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.pdb
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\David\Desktop\Project Video\General Template\CodeKatas\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.pdb
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.deps.json
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.runtimeconfig.json
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.runtimeconfig.dev.json
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\bin\Debug\netcoreapp2.1\CodeKatas.pdb
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.AssemblyInfo.cs
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\David\Desktop\Project Video\CODE KATAS\3. Numbers in Words\CodeKatas\obj\Debug\netcoreapp2.1\CodeKatas.pdb
