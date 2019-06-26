@@ -5777,11 +5777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\NTest\\NTest.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\NTest\\NTest.csproj",
       "projectName": "NTest",
-      "projectPath": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\NTest\\NTest.csproj",
+      "projectPath": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\NTest\\NTest.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\NTest\\obj\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\NTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5802,8 +5802,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\CodeKatas\\CodeKatas.csproj": {
-              "projectPath": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\CodeKatas\\CodeKatas.csproj"
+            "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\CodeKatas\\CodeKatas.csproj": {
+              "projectPath": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\CodeKatas\\CodeKatas.csproj"
             }
           }
         }

@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\CodeKatas\\CodeKatas.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\CodeKatas\\CodeKatas.csproj",
       "projectName": "CodeKatas",
-      "projectPath": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\CodeKatas\\CodeKatas.csproj",
+      "projectPath": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\CodeKatas\\CodeKatas.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Desktop\\GitBashNow\\Tendencia-en-Desarrollo-de-Aplicaciones-INS-340\\CODE KATAS\\2. String Calculator\\CodeKatas2\\CodeKatas\\obj\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\Project Video\\General Template\\CodeKatas\\CodeKatas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
